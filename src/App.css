@@ -1,0 +1,37 @@
+body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.image {
+    width: 30% !important;
+    margin: 0rem auto 0;
+}
+
+.owl-nav {
+    display: none;
+}
+
+.owl-dot {
+    background-color: #F25F3A;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+/* .owl-dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.owl-dot.active {
+    background-color: gray;
+} */
+
+.footer{
+    background-image: url(/src/assets/images/bg-simplify-section-desktop.svg);
+    background-position: center;
+    background-size: cover;
+}
+
